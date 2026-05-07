@@ -1,0 +1,137 @@
+# LearnKiswahili-privacy-policy
+Privacy Policy for the Learn Kiswahili mobile application by PenX Technologies.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>LearnKiswahili Privacy Policy</title>
+  <style>
+    body{
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: auto;
+      padding: 40px;
+      line-height: 1.7;
+      color: #333;
+    }
+    h1,h2{
+      color:#0b57d0;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+
+<p><strong>LearnKiswahili</strong><br/>
+Effective Date: May 07, 2026
+</p>
+
+<h2>Introduction</h2>
+
+<p>
+LearnKiswahili ("we", "us", or "our") respects your privacy and is committed to protecting it.
+This Privacy Policy explains how information may be handled when using the LearnKiswahili mobile application (the "App").
+</p>
+
+<p>
+By using the App, you agree to the practices described in this policy.
+</p>
+
+<h2>1. Information We Collect</h2>
+
+<p>
+We do not collect personal information.
+</p>
+
+<ul>
+<li>No sign-up, login, or account creation is required.</li>
+<li>We do not collect names, emails, phone numbers, age, gender, or profile information.</li>
+<li>We do not collect precise location data.</li>
+</ul>
+
+<p>
+The App may automatically collect limited technical information necessary for app functionality and improvement, including:
+</p>
+
+<ul>
+<li>Device type and operating system version</li>
+<li>General app usage statistics</li>
+<li>Crash reports and error diagnostics</li>
+</ul>
+
+<h2>2. How We Use Information</h2>
+
+<p>
+Any technical information collected is used only to:
+</p>
+
+<ul>
+<li>Provide and maintain app functionality</li>
+<li>Improve the language learning experience</li>
+<li>Fix bugs, crashes, and performance issues</li>
+</ul>
+
+<h2>3. Sharing of Information</h2>
+
+<p>
+We do not sell, rent, or share personal information with third parties.
+</p>
+
+<p>
+The application may display third-party advertisements such as Google AdMob in future versions.
+Third-party services may process limited technical identifiers according to their own privacy policies.
+</p>
+
+<h2>4. Data Storage</h2>
+
+<p>
+All learning progress is stored locally on the user’s device.
+We do not store personal learning progress on external servers.
+</p>
+
+<h2>5. In-App Purchases</h2>
+
+<p>
+If premium features or subscriptions are introduced, payments will be processed securely through Google Play Billing.
+We do not store payment card or banking information.
+</p>
+
+<h2>6. Children's Privacy</h2>
+
+<p>
+The App is designed for educational purposes and may be used by learners of all ages, including children.
+We do not knowingly collect personal information from children.
+</p>
+
+<h2>7. Your Rights</h2>
+
+<p>
+Since we do not collect personal data, users may stop all app-related data processing simply by uninstalling the application.
+</p>
+
+<h2>8. Changes to This Privacy Policy</h2>
+
+<p>
+We may update this Privacy Policy from time to time.
+Changes will be reflected on this page with a revised effective date.
+</p>
+
+<h2>9. Contact Us</h2>
+
+<p>
+PenX Technologies<br/>
+Mbeya, Tanzania<br/>
+Email: support@learnkiswahili.app
+</p>
+
+<hr/>
+
+<p>
+<strong>LearnKiswahili</strong> – Making Kiswahili learning simple, private, and enjoyable.
+</p>
+
+</body>
+</html>
